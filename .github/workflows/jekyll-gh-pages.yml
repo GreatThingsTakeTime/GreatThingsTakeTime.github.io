@@ -50,6 +50,3 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v2
 
-# Peter's changes start here
-theme: jekyll-theme-architect
-
