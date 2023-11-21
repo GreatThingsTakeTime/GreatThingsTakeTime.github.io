@@ -21,9 +21,7 @@
 title: Great Things Take Time
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  I used to ignore my needs for getting shit done. Now I focus on wellness for
-  sustainable peak performance. Join me in a walk about the gain between the
-  present and the future.
+  Great Things Take Time and Wellness for Sustainable Peak Performance.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.GreatThingsTakeTime.com" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: peter-senna
