@@ -13,7 +13,7 @@ Dear Graham Weaver,
 
 Here is what happened. I was hired as a product manager, and I spent the first 6 months working as an engineer. I learned a new technology, and documented structural  barriers to innovation before moving to the product team.
 
-As a product manager I interviewed people from various departments to validate my findings, and they were sound. After two weeks, I presented a diagnosis, a guiding policy, and a set of actionable coherent actions to the owners.
+As a product manager I interviewed people from various departments to validate my findings, and they were sound. After two weeks, I presented a diagnosis, a guiding policy, and a set of practical coherent actions to the owners.
 
 I got pats on my back. The CTO “could not agree more with me”, and the CEO gave me an enthusiastic “F*ck! He is right!”. Given my somber diagnosis, this felt way too easy, but I pushed it forward anyway, and I asked to discuss it with the board, the next day if possible.
 
